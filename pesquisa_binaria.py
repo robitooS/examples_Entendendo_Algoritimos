@@ -1,6 +1,5 @@
 # Código demonstrando um algorítimo muito conhecido, chamado de pesquisa binária, com tempo de execução O(logN)
 def pesquisa_binaria (lista, numero):
-    lista.sort()
     baixo = 0
     alto = len(lista) - 1
     
