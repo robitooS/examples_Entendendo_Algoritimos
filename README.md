@@ -2,5 +2,3 @@
 
 O livro ensina a entender alguns algorítimos essenciais para qualquer programador, os exercícios vão ser resolvidos em Python, seguindo a mesma linguagem abordada pelo livro.
 
-# OBS
-# OS EXERCICIOS ESTARÃO NA BRANCH MASTER, OCORREU ALGUM CONFLITO E NÃO CONSEGUI COLOCAR NA MAIN
